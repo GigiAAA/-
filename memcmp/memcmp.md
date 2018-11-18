@@ -185,3 +185,4 @@ int main()
 
 #### 注意：memcmp对字符串中的\0会转为ASCII码0对待，不会影响\0之后的比较。
 
+![1](C:\Users\14665\source\repos\memcmp\1.png)
